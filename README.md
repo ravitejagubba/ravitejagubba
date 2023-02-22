@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ravitejagubba
-- 👀 I’m interested in Information Security
-- 🌱 I’m currently learning Security techniques
+- 👀 I’m in Information Security
+- 🌱 I’m implement Security techniques
 - 💞️ I’m looking to collaborate on Security issues
-- 📫 How to reach me ...
+- <Develop <>< maintain <> Test >>//REPEAT//
+- 📫 To reach me ...
 
 <!---
 ravitejagubba/ravitejagubba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
