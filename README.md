@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravitejagubba
-- 👀 I’m in Information Security
-- 🌱 I’m implement Security techniques
+- 👀 I work in Information Security
+- 🌱 I implement Security techniques
 - 💞️ I’m looking to collaborate on Security issues
 - <Develop <>< maintain <> Test >>//REPEAT//
 - 📫 To reach me ...
